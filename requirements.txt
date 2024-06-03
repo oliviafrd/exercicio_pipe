@@ -1,3 +1,5 @@
 selenium
 datetime
 psycopg2
+flask
+coverage

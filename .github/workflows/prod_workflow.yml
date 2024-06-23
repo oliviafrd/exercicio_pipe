@@ -30,7 +30,7 @@ jobs:
     - uses: mr-smithers-excellent/docker-build-push@v6
       name: Build & push Docker image
       with:
-       image: oliviafarias/cotacaoImage
+       image: oliviafarias/cotacaoimage
        tags: ${{github.run_number}}-prod
        registry: docker.io
        dockerfile: dockerfile

@@ -24,10 +24,10 @@ print("\33[32mCotação achada com sucesso!\33[m")
 # Conexão com o postgres
 db_config = {
     'dbname': 'dbCotacoes',
-    'user': 'postgres',
-    'password': '1234',
-    'host': 'localhost',
-    'port': '5432'  
+    'user': 'avnadmin',
+    'password': 'AVNS_W0DLm7wJjB9lcgsIoPF',
+    'host': 'postgresaiven-project-first.e.aivencloud.com',
+    'port': '23957'  
 }
 
 #criar conexão

@@ -23,11 +23,11 @@ print("\33[32mCotação achada com sucesso!\33[m")
 
 # Conexão com o postgres
 db_config = {
-    'dbname': 'bdevops',
-    'user': 'bddevops_user',
-    'password': 'fyVDADHF1i1itpJUIMoMhq5oXRFP0y1p',
-    'host': 'dpg-cpm1b3iju9rs738i2ung-a',
-    'port': '5432'  
+    'dbname': 'dbCotacoes',
+    'user': 'avnadmin',
+    'password': 'AVNS_W0DLm7wJjB9lcgsIoPF',
+    'host': 'postgresaiven-project-first.e.aivencloud.com',
+    'port': '23957'  
 }
 
 #criar conexão

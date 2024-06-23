@@ -23,10 +23,10 @@ print("\33[32mCotação achada com sucesso!\33[m")
 
 # Conexão com o postgres
 db_config = {
-    'dbname': 'dbCotacoes',
-    'user': 'postgres',
-    'password': '1234',
-    'host': 'localhost',
+    'dbname': 'bdevops',
+    'user': 'bddevops_user',
+    'password': 'fyVDADHF1i1itpJUIMoMhq5oXRFP0y1p',
+    'host': 'dpg-cpm1b3iju9rs738i2ung-a',
     'port': '5432'  
 }
 
